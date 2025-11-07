@@ -1,1 +1,1 @@
-# Sistema de castramento de alunos, professores e notas
+# Sistema de cadastro de alunos, professores e notas
